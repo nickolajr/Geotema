@@ -1,0 +1,28 @@
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\Geotema test2.exe
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\Geotema test2.deps.json
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\Geotema test2.runtimeconfig.json
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\Geotema test2.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\Geotema test2.pdb
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.csproj.AssemblyReference.cache
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2_MarkupCompile.cache
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2_MarkupCompile.lref
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.g.resources
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.AssemblyInfoInputs.cache
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.AssemblyInfo.cs
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.csproj.CoreCompileInputs.cache
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.csproj.CopyComplete
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\refint\Geotema test2.dll
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.pdb
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\Geotema test2.genruntimeconfig.cache
+C:\Users\nr\source\repos\Geotema test2\Geotema test2\obj\Debug\net6.0-windows\ref\Geotema test2.dll
